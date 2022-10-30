@@ -15,4 +15,4 @@ Avec alerte par email et génération de rapport.
 [Découvrir](https://vatcompliance.eu)<br>
 [Voir les tarifs](https://vatcompliance.eu)<br><br>
 
-<footer>Et bien plusde services à venir...</footer>
+<footer>Et bien plus de services à venir...</footer>
